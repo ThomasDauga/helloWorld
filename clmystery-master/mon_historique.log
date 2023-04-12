@@ -1,0 +1,18 @@
+    1  ls
+    2  cat README.md 
+    3  cat instructions 
+    4  ls
+    5  cd mystery/
+    6  ls
+    7  cat crimescene 
+    8  grep CLUE crimescene 
+    9  ls
+   10  cd memberships/
+   11  ls
+   12  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep Annabel
+   13  cd ..
+   14  ls
+   15  grep Annabel Church people
+   16  echo Annabel Church
+   17  cd ..
+   18  history > mon_historique.log

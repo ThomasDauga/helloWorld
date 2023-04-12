@@ -1,0 +1,7 @@
+ 222 curl https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv -o wilders.csv
+  223  grep "France,2019,PHP" < wilders.csv | wc -l > php_france_2019.csv
+  224  sort php_france_2019.csv
+  225  grep JavaScript wilders.csv > javasript.csv
+  228  grep Toulouse javasript.csv > Toulouse.csv
+  229  grep Biarritz javasript.csv > Biarritz.csv
+  230  cat Biarritz.csv Toulouse.csv > javascript_biarritz_toulouse.csv

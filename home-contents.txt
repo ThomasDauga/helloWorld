@@ -1,0 +1,34 @@
+3D Objects/
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Images/
+IntelGraphicsProfiles/
+Links/
+Local Settings@
+Menu Démarrer@
+Mes documents@
+Modèles@
+Music/
+NTUSER.DAT
+NTUSER.DAT{b46f4829-ba60-11ed-9b23-d78626b4eb41}.TM.blf
+NTUSER.DAT{b46f4829-ba60-11ed-9b23-d78626b4eb41}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{b46f4829-ba60-11ed-9b23-d78626b4eb41}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Videos/
+VirtualBox VMs/
+Voisinage d'impression@
+Voisinage réseau@
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini

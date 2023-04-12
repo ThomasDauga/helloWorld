@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+   }
+
+nav, footer{
+    border: 2px solid blue;
+}
+
+main{
+    border: 2px solid red;
+    width: 800px;
+    margin: auto;
+}
+
+form, h1{
+    border: 2px solid red;
+}
+
+nav  ul  li {
+    display: inline-block;
+
+}
+
+nav > ul > li:not(:first-child){
+    color: white;
+}
+
+li:first-child {
+    color: black;
+    background-color: white;
+}
+
+nav{
+    padding: 10px;
+    background-color: #a306b6;
+}
+
+input{
+    padding: 8px;
+}
+
+label{
+    display: block;
+    margin: 4px 0;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+}
